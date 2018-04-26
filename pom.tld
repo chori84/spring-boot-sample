@@ -13,5 +13,10 @@
 
 	<modules>
 		<module>spring-boot-test</module>
+		<module>spring-boot-webflux</module>
+		<module>spring-boot-filter</module>
+		<module>spring-boot-webfilter</module>
+		<module>spring-boot-docker</module>
+		<module>customizing-embedded-servlet-container</module>
 	</modules>
 </project>
