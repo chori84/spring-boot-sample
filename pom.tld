@@ -18,5 +18,6 @@
 		<module>spring-boot-webfilter</module>
 		<module>spring-boot-docker</module>
 		<module>customizing-embedded-servlet-container</module>
+		<module>spring-boot-security</module>
 	</modules>
 </project>
