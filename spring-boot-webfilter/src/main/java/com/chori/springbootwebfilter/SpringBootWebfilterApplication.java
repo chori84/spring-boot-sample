@@ -20,7 +20,7 @@ public class SpringBootWebfilterApplication {
     }
 
     @Bean
-    public RouterFunction<ServerResponse> rount() {
+    public RouterFunction<ServerResponse> rout() {
         return route(GET("/book").and(accept(MediaType.APPLICATION_JSON)),
                 req -> {
                     System.out.println("handler /book");
